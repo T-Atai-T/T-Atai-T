@@ -40,7 +40,9 @@
 ---
 
 ### 📊 **Моя статистика**
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=T-Atai-T&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Atai-T&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=T-Atai-T&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Atai-T&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
