@@ -42,9 +42,7 @@
 ### 📊 **Моя статистика**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=T-Atai-T&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Atai-T&layout=compact&theme=tokyonight&hide=html&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Atai-T&layout=compact&theme=tokyonight&hide=css&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-Atai-T&layout=compact&theme=tokyonight&exclude_repo=Yuga-Build&hide=HTML,CSS)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
